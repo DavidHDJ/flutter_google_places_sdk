@@ -23,6 +23,6 @@ A new flutter plugin project.
   s.swift_version = '5.0'
 
   # Dependencies
-  s.dependency 'GooglePlaces'
+  s.dependency 'GooglePlaces', '7.1.0'
   s.static_framework = true
 end
